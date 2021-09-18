@@ -1,0 +1,35 @@
+
+
+<h2>{{hero.name}} Details</h2>
+<div><span>id: </span>{{hero.id}}</div>
+<div><span>name: </span>{{hero.name}}</div>
+
+<!-- <div gantt data=data></div>
+
+<div gantt data=data>
+  <gantt-table></gantt-table>
+  <gantt-movable></gantt-movable>
+  <gantt-tooltips></gantt-tooltips>
+</div>
+ -->
+
+ <breadcrumb></breadcrumb>
+
+<div class="matero-row" fxLayout="row wrap">
+
+  <!-- Charts -->
+  <div class="matero-col" fxFlex="100" fxFlex.gt-sm="60">
+    <mat-card>
+      <mat-card-subtitle>Traffic</mat-card-subtitle>
+      <div id="chart1"></div>
+    </mat-card>
+  </div>
+  
+  <div class="matero-col" fxFlex="100" fxFlex.gt-sm="40">
+    <mat-card>
+      <mat-card-subtitle>Weekly Revenue</mat-card-subtitle>
+      <div id="chart2"></div>
+    </mat-card>
+  </div>
+
+</div>
