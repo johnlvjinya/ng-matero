@@ -179,10 +179,10 @@
   dependencies:
     tslib "^2.2.0"
 
-"@angular/compiler-cli@~12.2.1":
-  version "12.2.4"
-  resolved "https://registry.nlark.com/@angular/compiler-cli/download/@angular/compiler-cli-12.2.4.tgz#28175ef1073a48cfede22714bc353b0e2185b779"
-  integrity sha1-KBde8Qc6SM/t4icUvDU7DiGFt3k=
+"@angular/compiler-cli@~12.2.12":
+  version "12.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-12.2.12.tgz#cb5cca7b20999ba22d356cd6cd47f6d2d09b99ac"
+  integrity sha512-zIL6GnoIzNWNiip9sjvwzhL6lGg8lj0W1bKodmL6BINqPUPNdRR++VliUKr/o9DRBDEP7A0F+m2kmYJoN4p2FA==
   dependencies:
     "@babel/core" "^7.8.6"
     "@babel/types" "^7.8.6"
