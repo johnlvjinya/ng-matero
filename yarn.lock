@@ -216,10 +216,10 @@
   resolved "https://registry.nlark.com/@angular/core/download/@angular/core-9.0.0.tgz#227dc53e1ac81824f998c6e76000b7efc522641e"
   integrity sha1-In3FPhrIGCT5mMbnYAC378UiZB4=
 
-"@angular/core@~12.2.1":
-  version "12.2.4"
-  resolved "https://registry.nlark.com/@angular/core/download/@angular/core-12.2.4.tgz#000f76eda4382e249f39fe67cda5ac0976594ade"
-  integrity sha1-AA927aQ4LiSfOf5nzaWsCXZZSt4=
+"@angular/core@~12.2.15":
+  version "12.2.15"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-12.2.15.tgz#e1b0b703a68dc9d626d43af082169299433f913b"
+  integrity sha512-67SS/eNN3kMvh5WSoRz5OPJYuh/kb9lFXS+iOgnDdPyI+HKdVlBrO4iW2EPCcE0gFrlVrbao8JrJfGtUz4Hs/w==
   dependencies:
     tslib "^2.2.0"
 
