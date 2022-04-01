@@ -279,12 +279,12 @@
   dependencies:
     tslib "^2.2.0"
 
-"@angular/router@~12.2.1":
-  version "12.2.4"
-  resolved "https://registry.nlark.com/@angular/router/download/@angular/router-12.2.4.tgz#3b8f30b1d690d3438c66720a573d4cc5275871a8"
-  integrity sha1-O48wsdaQ00OMZnIKVz1MxSdYcag=
+"@angular/router@~13.3.1":
+  version "13.3.1"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-13.3.1.tgz#666c492250bde8d1281d6e24abc750aa97efbd15"
+  integrity sha512-YpZLjI4UI9KK6x8yn41XMrBWZgVb5JyJR7KNhQXB7WiX8bVH5SZzFRkjR3qUxTGaxe6I7KFvzySwm4JTYNj+xw==
   dependencies:
-    tslib "^2.2.0"
+    tslib "^2.3.0"
 
 "@angularclass/hmr@^3.0.0":
   version "3.0.0"
