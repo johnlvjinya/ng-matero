@@ -7145,12 +7145,12 @@ ngx-progressbar@^6.1.1:
   dependencies:
     tslib "^2.0.0"
 
-ngx-toastr@^14.1.0:
-  version "14.1.0"
-  resolved "https://registry.nlark.com/ngx-toastr/download/ngx-toastr-14.1.0.tgz#b2607e358b04481b710d8f5a88179ba233ac4851"
-  integrity sha1-smB+NYsESBtxDY9aiBebojOsSFE=
+ngx-toastr@^14.3.0:
+  version "14.3.0"
+  resolved "https://registry.yarnpkg.com/ngx-toastr/-/ngx-toastr-14.3.0.tgz#3c366fc5ef8aa1ca8f97ae46c468cfcdf44e620d"
+  integrity sha512-d8j/sOr60w5U7rGlcKQ0Ff4u+m2NzhqU5ZdJXn7QW3aR3Zf/rY7/Fd14BmUindTOWVr2NeTYcQXCjLpir0ldpA==
   dependencies:
-    tslib "^2.2.0"
+    tslib "^2.3.0"
 
 nice-napi@^1.0.2:
   version "1.0.2"
