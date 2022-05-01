@@ -251,12 +251,12 @@
     glob "7.1.7"
     yargs "^17.0.0"
 
-"@angular/material-moment-adapter@~12.2.1":
-  version "12.2.4"
-  resolved "https://registry.nlark.com/@angular/material-moment-adapter/download/@angular/material-moment-adapter-12.2.4.tgz#eaaafa6081d5db08ce357ce9cc5a22f3768d112c"
-  integrity sha1-6qr6YIHV2wjONXzpzFoi83aNESw=
+"@angular/material-moment-adapter@~13.3.5":
+  version "13.3.5"
+  resolved "https://registry.yarnpkg.com/@angular/material-moment-adapter/-/material-moment-adapter-13.3.5.tgz#f47ea35ac67e897d525147d34b48edc15f442872"
+  integrity sha512-5BSzS0OYw0EyC9pVLUYGH5XeyjgWIuetcRG8b5k2JWFNWw+YU+zsP/q+RSqkDA3jRXaxc+HeiZzMiaPUX4CXyA==
   dependencies:
-    tslib "^2.2.0"
+    tslib "^2.3.0"
 
 "@angular/material@~12.2.1":
   version "12.2.4"
