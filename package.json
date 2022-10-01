@@ -38,7 +38,7 @@
     "@angular/material-moment-adapter": "~12.2.1",
     "@angular/platform-browser": "~12.2.1",
     "@angular/platform-browser-dynamic": "~12.2.1",
-    "@angular/router": "~12.2.1",
+    "@angular/router": "~14.2.4",
     "@mat-datetimepicker/core": "^7.0.1",
     "@mat-datetimepicker/moment": "^7.0.1",
     "@ng-matero/extensions": "^12.2.2",
